@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souzagmf
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning python and it's amazing
+- 🌱 I’m currently learning game development and it's amazing
 
 <!---
 Souzagmf/Souzagmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
