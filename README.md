@@ -23,8 +23,8 @@ Após uma trajetória sólida de 6 anos em tecnico de manutenção industrial, d
 ### 📈 Evolução no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU-USUARIO]&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzagmf&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souzagmf&theme=nord" />
 </div>
 
 ---
@@ -39,12 +39,7 @@ Minha experiência anterior me deu ferramentas valiosas que aplico hoje no códi
 ---
 
 ### 🤝 Vamos conversar?
-
-<div align="left">
-  <a href="[SEU-LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[SEU-EMAIL]">
+  <a href="mailto:Souzagmf.pt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
