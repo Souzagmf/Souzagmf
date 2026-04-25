@@ -1,63 +1,81 @@
-# Olá, eu sou o Gabriel Souza! 👋 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Oi,+sou+o+Gabriel+Souza!;Do+Industrial+para+o+Digital!;Estudando+Full+Stack;" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack%20(React%20%26%20Node)-green?style=for-the-badge" />
-</p>
+<img src="https://raw.githubusercontent.com/Souzagmf/WebDev/main/waves_top.svg" width="100%">
 
----
+<div style="background-color: #21262d; padding: 20px; border-radius: 0 0 15px 15px; margin-top: -5px; color: white; border: 1px solid #30363d;">
 
-### 🚀 Sobre Mim
-Tenho 27 anos e estou trilhando o caminho da **Manutenção Industrial** para o **Desenvolvimento Web**. 
-
-* 🛠️ **Experiência Técnica:** Como Técnico de Manutenção Industrial, desenvolvi um olhar crítico para resolver problemas e uma lógica estruturada, competências que hoje aplico na arquitetura de software.
-* 💡 **Transição:** O que começou como um hobby transformou-se em um objetivo profissional. Estou focado em construir aplicações completas, do visual no navegador à lógica no servidor.
-* 💻 **Foco Atual:** Especializando em JavaScript, dominando a biblioteca **React** no frontend e **Node.js** no backend.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
+## 🚀 Sobre mim
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+Sou o Gabriel, tenho 27 anos e estou trilhando uma jornada de transição de carreira apaixonante.
 </p>
 
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+- 🏭 **Meu background:** Atualmente, sou Técnico de Manutenção Industrial. Trago da indústria um raciocínio lógico forte, habilidade para diagnósticos rápidos e resolução de problemas complexos.
+- 💻 **Meu novo amor:** O que era hobby virou foco total. Estou mergulhando de cabeça no desenvolvimento web, trocando ferramentas físicas por linhas de código.
+- 🎯 **Foco:** Criar aplicações completas, unindo o visual incrível do React com a robustez do Node.js.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Souzagmf/WebDev/main/waves_bottom.svg" width="100%">
+
+<br>
+
+<div align="center">
+  <h2>🛠️ Minha Caixa de Ferramentas Digitais</h2>
+  <p>Do Frontend ao Backend</p>
+  
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vscode" />
+</div>
+
+<br>
+<hr style="border: 1px dashed #30363d">
+<br>
+
+## 📂 Repositório em Destaque
+<div style="background-color: #161b22; padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
+  <img src="https://img.shields.io/badge/Projeto-WebDev-2196F3?style=for-the-badge&logo=react&logoColor=white" />
+  <p>
+    Meu laboratório de estudos Full Stack. Atualmente, estou integrando formulários React (Hooks) com APIs simples em Node.js.
+  </p>
+  <a href="https://github.com/Souzagmf/WebDev">💻 Ver Código</a>
+</div>
+
+<br>
+
+## 📈 Metas para 2026
+- [ ] 🧰 Criar uma aplicação Full Stack do zero.
+- [ ] 🛢️ Aprofundar em bancos de dados (SQL).
+- [ ] 🚪 Conquistar a primeira vaga Junior.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Souzagmf/WebDev/main/waves_top.svg" width="100%">
+
+<div style="background-color: #21262d; padding: 20px; border-radius: 0 0 15px 15px; margin-top: -5px; border: 1px solid #30363d; text-align: center;">
+
+## 📫 Vamos nos conectar?
+<p>
+  Estou sempre aberto a conversas e novas oportunidades de aprendizado!
 </p>
 
-**Ferramentas**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<a href="https://www.linkedin.com/in/gabriel-souza-974043141/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:souzagmf.pt@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Souzagmf/WebDev/main/waves_bottom.svg" width="100%">
 
 ---
-
-### 📂 Projeto em Destaque
-📂 **[WebDev](https://github.com/Souzagmf/WebDev)**
-> Meu principal repositório de estudos onde documento minha evolução. Atualmente focado em integração de formulários React com estados (`useState`) e estruturação de APIs simples em Node.js.
-
----
-
-### 📈 Objetivos para 2026
-- [ ] Criar e deployar uma aplicação Full Stack completa.
-- [ ] Aprofundar em bancos de dados (SQL/NoSQL).
-- [ ] Conquistar a primeira vaga como Desenvolvedor Junior.
-
----
-
-### 📫 Vamos nos conectar?
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-souza-974043141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:souzagmf.pt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+<div align="center">
+  *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+</div>
