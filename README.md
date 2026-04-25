@@ -1,53 +1,32 @@
-# Olá, eu sou o Gabrie! 👋
+# Olá, eu sou o Gabriel Souza! 👋
 
-### 🔄 A Grande Transição: De manutenção industrial para o código
+Tenho 27 anos e estou em uma jornada de transição de carreira: saí da **Manutenção Industrial** para conquistar meu espaço no **Desenvolvimento Web**.
 
-Após uma trajetória sólida de 6 anos em tecnico de manutenção industrial, decidi retornar à minha paixão pela tecnologia. Estou unindo minha experiência em encontrar problemas com o desenvolvimento de software para criar soluções eficientes e centradas no usuário.
+## 🚀 Sobre mim
+- 🛠️ **Background:** Atualmente trabalho como Técnico de Manutenção Industrial. Trago da indústria o raciocínio lógico apurado e a habilidade de resolver problemas complexos.
+- 🎓 **Foco atual:** Estou estudando Desenvolvimento Frontend, com foco total no ecossistema **React**.
+- 💡 **A Mudança:** O que antes era um hobby agora é meu foco profissional. Estou trocando as chaves de fenda por linhas de código, focado em criar interfaces incríveis e funcionais.
 
-- 🔭 **Foco Atual:** Reconstruindo minha base e explorando o desenvolvimento web (HTML, CSS, JS, NODE, REACT).
-- 💡 **Diferencial:** Trago comigo uma visão analítica e maturidade profissional adquirida em outras áreas.
----
-
-### 🛠️ Meu Arsenal Técnico (Em constante atualização)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+</p>
+
+## 📂 Repositório em Destaque
+- **[WebDev](https://github.com/Souzagmf/WebDev):** Aqui é o meu laboratório de estudos, onde estou aplicando conceitos de React, como Hooks (`useState`), manipulação de formulários e estilização.
+
+## 📈 Objetivos para 2024
+- Consolidar conhecimentos em React e Next.js.
+- Criar projetos que resolvam problemas reais.
+- Conquistar a primeira oportunidade como Desenvolvedor Junior.
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-souza-974043141/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb4eyZZ6LSV2P%2F1FNJ%2F4UHw%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzagmf.pt@gmail.com)
 
 ---
-
-### 📈 Evolução no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souzagmf&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souzagmf&theme=nord" />
-</div>
-
----
-
-### 🧠 Habilidades Transferíveis (Soft Skills)
-
-Minha experiência anterior me deu ferramentas valiosas que aplico hoje no código:
-- **Resolução de Problemas:** [Breve exemplo: ex: lidar com crises].
-- **Comunicação:** Traduzindo requisitos técnicos para o negócio.
-- **Adaptabilidade:** Aprendendo novas stacks com agilidade.
-
----
-
-### 🤝 Vamos conversar?
-  <a href="mailto:Souzagmf.pt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-> "Nunca é tarde demais para ser o que você poderia ter sido." – George Eliot
-
-<!---
-Souzagmf/Souzagmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"O sucesso é a soma de pequenos esforços repetidos dia após dia."
