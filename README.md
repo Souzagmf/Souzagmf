@@ -1,32 +1,63 @@
-# Olá, eu sou o Gabriel Souza! 👋
+# Olá, eu sou o Gabriel Souza! 👋 
 
-Tenho 27 anos e estou em uma jornada de transição de carreira: saí da **Manutenção Industrial** para conquistar meu espaço no **Desenvolvimento Web**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack%20(React%20%26%20Node)-green?style=for-the-badge" />
+</p>
 
-## 🚀 Sobre mim
-- 🛠️ **Background:** Atualmente trabalho como Técnico de Manutenção Industrial. Trago da indústria o raciocínio lógico apurado e a habilidade de resolver problemas complexos.
-- 🎓 **Foco atual:** Estou estudando Desenvolvimento Frontend, com foco total no ecossistema **React**.
-- 💡 **A Mudança:** O que antes era um hobby agora é meu foco profissional. Estou trocando as chaves de fenda por linhas de código, focado em criar interfaces incríveis e funcionais.
+---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🚀 Sobre Mim
+Tenho 27 anos e estou trilhando o caminho da **Manutenção Industrial** para o **Desenvolvimento Web**. 
+
+* 🛠️ **Experiência Técnica:** Como Técnico de Manutenção Industrial, desenvolvi um olhar crítico para resolver problemas e uma lógica estruturada, competências que hoje aplico na arquitetura de software.
+* 💡 **Transição:** O que começou como um hobby transformou-se em um objetivo profissional. Estou focado em construir aplicações completas, do visual no navegador à lógica no servidor.
+* 💻 **Foco Atual:** Especializando em JavaScript, dominando a biblioteca **React** no frontend e **Node.js** no backend.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📂 Repositório em Destaque
-- **[WebDev](https://github.com/Souzagmf/WebDev):** Aqui é o meu laboratório de estudos, onde estou aplicando conceitos de React, como Hooks (`useState`), manipulação de formulários e estilização.
+**Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-## 📈 Objetivos para 2024
-- Consolidar conhecimentos em React e Next.js.
-- Criar projetos que resolvam problemas reais.
-- Conquistar a primeira oportunidade como Desenvolvedor Junior.
-
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-souza-974043141/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb4eyZZ6LSV2P%2F1FNJ%2F4UHw%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzagmf.pt@gmail.com)
+**Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
-"O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+### 📂 Projeto em Destaque
+📂 **[WebDev](https://github.com/Souzagmf/WebDev)**
+> Meu principal repositório de estudos onde documento minha evolução. Atualmente focado em integração de formulários React com estados (`useState`) e estruturação de APIs simples em Node.js.
+
+---
+
+### 📈 Objetivos para 2026
+- [ ] Criar e deployar uma aplicação Full Stack completa.
+- [ ] Aprofundar em bancos de dados (SQL/NoSQL).
+- [ ] Conquistar a primeira vaga como Desenvolvedor Junior.
+
+---
+
+### 📫 Vamos nos conectar?
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriel-souza-974043141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:souzagmf.pt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
