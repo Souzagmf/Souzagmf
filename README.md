@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Oi,+sou+o+Gabriel+Souza!;Do+Industrial+para+o+Digital!;Estudando+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Oi,+sou+Gabriel+Souza!;" alt="Typing SVG" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Souzagmf/WebDev/main/waves_top.svg" width="100%">
-
 <div style="background-color: #21262d; padding: 20px; border-radius: 0 0 15px 15px; margin-top: -5px; color: white; border: 1px solid #30363d;">
 
 ## 🚀 Sobre mim
