@@ -4,6 +4,10 @@
 <div style="background-color: #21262d; padding: 20px; border-radius: 0 0 15px 15px; margin-top: -5px; color: white; border: 1px solid #30363d;">
 
 ## 🚀 Sobre mim
+<a href="https://www.codewars.com/users/Souzafmg">
+  <img src="https://www.codewars.com/users/Souzafmg/badges/large" />
+</a>
+<br />
 <p align="left">
 Sou o Gabriel, tenho 27 anos e estou trilhando uma jornada de transição de carreira apaixonante.
 </p>
@@ -15,11 +19,8 @@ Sou o Gabriel, tenho 27 anos e estou trilhando uma jornada de transição de car
 </div>
 
 <br>
-<a href="https://www.codewars.com/users/Souzafmg">
-  <img src="https://www.codewars.com/users/Souzafmg/badges/large" />
-</a>
 
-<br />
+
 
 <div align="center">
   <h2>🛠️ Minha Caixa de Ferramentas Digitais</h2>
