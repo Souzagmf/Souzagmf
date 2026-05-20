@@ -59,6 +59,8 @@ Sou o Gabriel, tenho 27 anos e estou trilhando uma jornada de transição de car
 <a href="https://www.linkedin.com/in/gabriel-souza-974043141/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<img src="https://www.codewars.com/users/Souzafmg/badges/large" />
 &nbsp;&nbsp;
 <a href="mailto:souzagmf.pt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
