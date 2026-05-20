@@ -15,8 +15,9 @@ Sou o Gabriel, tenho 27 anos e estou trilhando uma jornada de transição de car
 </div>
 
 <br>
-
-<img src="https://www.codewars.com/users/Souzafmg/badges/large" />
+<a href="https://www.codewars.com/users/Souzafmg">
+  <img src="https://www.codewars.com/users/Souzafmg/badges/large" />
+</a>
 
 <br />
 
