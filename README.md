@@ -12,12 +12,6 @@ Sou o Gabriel, tenho 27 anos e estou em uma jornada sólida de transição de ca
 - 🏭 **Meu Background:** Atuo como Técnico de Manutenção Industrial. Trago da indústria um raciocínio lógico apurado, facilidade para diagnósticos rápidos e muita resiliência para solucionar desafios estruturados.
 - 🎯 **Foco de Carreira:** Desenvolver aplicações modernas, escaláveis e eficientes, unindo a dinamicidade do React no Frontend com a robustez e segurança do Node.js no Backend.
 
-<br />
-
-<a href="https://www.codewars.com/users/Souzafmg" target="_blank">
-  <img src="https://www.codewars.com/users/Souzafmg/badges/large" alt="Codewars Badge" />
-</a>
-
 </div>
 
 <div align="center" style="margin-bottom: 30px;">
@@ -26,6 +20,21 @@ Sou o Gabriel, tenho 27 anos e estou em uma jornada sólida de transição de ca
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,git,vscode" alt="Skills" />
 </div>
+
+<!-- NOVA SEÇÃO DO CODEWARS AQUI -->
+<div style="background-color: #21262d; padding: 20px; border-radius: 15px; border: 1px solid #30363d; margin-top: 20px; margin-bottom: 20px;">
+  <div align="center">
+    <h3>⚔️ Code Dojo: Desafios de Lógica</h3>
+    <p>Afiando o raciocínio lógico e resolvendo problemas complexos através de algoritmos.</p>
+    <br>
+    <a href="https://www.codewars.com/users/Souzafmg" target="_blank">
+      <img src="https://www.codewars.com/users/Souzafmg/badges/large" alt="Codewars Badge" />
+    </a>
+    <br><br>
+    <a href="https://www.codewars.com/users/Souzafmg" target="_blank" style="color: #2196F3; text-decoration: none; font-weight: bold;">🎯 Ver meu perfil completo no CodeWars</a>
+  </div>
+</div>
+<!-- FIM DA NOVA SEÇÃO -->
 
 ## 📂 Repositório em Destaque
 <div style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d; margin-bottom: 20px;">
